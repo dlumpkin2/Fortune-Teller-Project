@@ -1,0 +1,11 @@
+.my-fortune{
+    border:5px solid grey;
+    padding:10px;   
+}
+.container{
+  display:flex;
+    justify-content:center;
+}
+body { 
+    background-color: lightblue;
+    }
